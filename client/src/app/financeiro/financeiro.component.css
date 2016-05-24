@@ -1,0 +1,15 @@
+.modulo-financeiro{
+	display: inline-block;
+	float: left;
+	cursor:pointer;
+	margin: 10px;
+}
+.modulo-financeiro td{
+	border:solid 1px #e1e1e1;
+	padding: 10px;
+}
+
+.modulo-financeiro-tela{
+	position: absolute;
+	top: 110px;
+}

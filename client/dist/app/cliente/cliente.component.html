@@ -1,0 +1,9 @@
+<div class="modulo-cliente" (click)="exibirTela()">
+	<i class="{{icone}}" style="font-size: 5em"></i>
+</div>
+
+<div class="modulo-cliente-tela" [hidden]="!tela">
+	<div class="alert alert-danger">
+		Erro ao carregar o módulo de cliente.
+	</div>
+</div>

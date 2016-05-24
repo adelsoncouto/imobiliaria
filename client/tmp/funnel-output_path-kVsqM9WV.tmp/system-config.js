@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/imobiliaria/client/tmp/broccoli_type_script_compiler-cache_path-4si0NxLv.tmp/src/system-config.js
